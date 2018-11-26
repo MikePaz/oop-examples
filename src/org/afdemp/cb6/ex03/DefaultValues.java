@@ -2,7 +2,7 @@ package org.afdemp.cb6.ex03;
 
 public class DefaultValues {
 
-    //Java assigns default values to all the member fields
+    //Java assigns default values and i edit this to all the member fields
     //of a class
     
     //Statics
